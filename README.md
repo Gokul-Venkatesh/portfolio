@@ -1,4 +1,4 @@
-#Portfolio preview 
+#Portfolio preview 1.0
 ![Screenshot 2024-07-15 141012](https://github.com/user-attachments/assets/0de62280-ae2f-4203-84ed-e4709928b5f8)
 
 ![Screenshot 2024-07-15 141027](https://github.com/user-attachments/assets/a139f1b7-777d-4bb2-8c8a-353601a5022a)
